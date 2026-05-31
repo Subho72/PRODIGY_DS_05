@@ -94,7 +94,7 @@ Interactive map displaying accident-prone locations.
 
 View Interactive Map:
 
-https://Subho72.github.io/traffic-accident-analysis/hotspot_map.html
+[https://Subho72.github.io/traffic-accident-analysis/hotspot_map.html](https://subho72.github.io/PRODIGY_DS_05/hotspot_map.html)
 
 ---
 
