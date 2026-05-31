@@ -51,11 +51,10 @@ Traffic-Accident-Analysis/
 ├── US_Accidents_March23.csv
 ├── traffic_accident_analysis.ipynb
 ├── hotspot_map.html
-├── images/
-│   ├── accidents_by_hour.png
-│   ├── accidents_by_weather.png
-│   ├── severity_distribution.png
-│   └── hotspot_map.png
+├── accidents_by_hour.png
+├── accidents_by_weather.png
+├── severity_distribution.png
+├── hotspot_map.png
 └── README.md
 ```
 
@@ -103,19 +102,19 @@ https://Subho72.github.io/traffic-accident-analysis/hotspot_map.html
 
 ### Accident Frequency by Hour
 
-![Accidents by Hour](images/accidents_by_hour.png)
+![Accidents by Hour](accidents_by_hour.png)
 
 ### Weather Condition Analysis
 
-![Weather Analysis](images/accidents_by_weather.png)
+![Weather Analysis](accidents_by_weather.png)
 
 ### Severity Distribution
 
-![Severity Distribution](images/severity_distribution.png)
+![Severity Distribution](severity_distribution.png)
 
 ### Accident Hotspot Map
 
-![Hotspot Map](images/hotspot_map.png)
+![Hotspot Map](hotspot_map.png)
 
 ---
 
